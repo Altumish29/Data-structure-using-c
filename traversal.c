@@ -1,5 +1,5 @@
-Traversal Operation.c
-C program to Implement a List using Array and develop function to perform Traversal operation
+
+//C program to Implement a List using Array and develop function to perform Traversal operation
 #include <stdio.h>
 void main() {
 int Arr[5] = {18, 30, 15, 70, 12};
