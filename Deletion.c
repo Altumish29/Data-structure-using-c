@@ -1,4 +1,4 @@
-Deletion.c
+
 // C program to Implement a List using Array and develop functions to perform deletion operation.
 #include<stdio.h>
 
