@@ -1,4 +1,3 @@
-Activity 1a.c
  //C program to Implement a List using Array and develop function to perform insertion
  #include <stdio.h>
  int main()
